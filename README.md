@@ -5,6 +5,6 @@ Using tkinter in python, I created an interface in which the user can view the d
 The image below shows the steps of inserting a record into the "Gallery" table.
 
 <p align="center">
-<img src="">
+<img src="https://github.com/niloufareshghi/PictoGallery/blob/main/picto.JPG?raw=true">
 </p>
 
